@@ -1,0 +1,39 @@
+<div align="center">
+    <h1 align="center">  
+        Привет! Меня зовут Андрей
+        <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  
+    </h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=535&lines=Manual+QA+%2C+Automated+QA+Engineer" alt="Typing SVG" />
+  </a>
+  <p style="margin-top: 10px; font-size: 18px;">
+    Тестировщик | Автоматизатор 
+  </p>
+  <p style="margin-top: 10px; font-size: 18px;">
+    Специализируюсь на ручном и API тестировании 
+  </p>
+
+<h2>Обо мне</h2>
+  <p>
+    Я занимаюсь ручным тестированием веб-приложений.  
+   
+  </p>
+</div>
+<ul>
+<li>На данный момент изучаю автоматизацию и пытаюсь овладеть дополнительными техниками тестирования.</li>
+<li>Изучаю новые направления в тестировании.</li>
+</ul>
+<div align="center">
+  <h3>Навыки</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/Allure-4285F4?style=for-the-badge&logo=allure&logoColor=white" alt="Allure" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Pytest-0A6ED1?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+    <img src="https://img.shields.io/badge/Appium-68A0E5?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+    <img src="https://img.shields.io/badge/BrowserStack-0DB6F5?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack" />
+ </div>
+</div>
